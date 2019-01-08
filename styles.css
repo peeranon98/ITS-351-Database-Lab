@@ -1,0 +1,24 @@
+*{
+	background: rgba(0,255,0,0.1);
+}
+.test{
+	background: rgba(0,0,255,0.1);
+}
+.test form{
+	color: red;
+}
+p{
+	color: yellow;
+}
+div>p{
+	color: black;
+}
+.test form p{
+	color: green;
+}
+select+input{
+	color: blue;
+}
+a[href="a.html"]{
+	color: pink;
+}
